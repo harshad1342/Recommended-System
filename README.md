@@ -4,6 +4,9 @@
 
 ![recommend1](https://user-images.githubusercontent.com/61062046/192534376-4ce03859-0fac-4ff5-ae21-24c6b3eaa383.PNG)
 
+Download requirement file : `pip install -r requirements.txt`
+
+
 # Movie Recommeded System
 The details of the movies(title, genre, runtime, ratings, posters, etc) are fetched using an API by TMDB, https://www.themoviedb.org, and using the 
 IMDB id of the movie in the API, I did web scraping to get the reviews given by the user in the IMDB site using `beautifulsoup4` 
@@ -25,5 +28,5 @@ Fetch book images directly through dataset
 
 ![recommend3](https://user-images.githubusercontent.com/61062046/192534840-e6602aa5-dd37-4f2d-806f-41cc1b8387af.PNG)
 
-Download requirement file : pip install -r requirements.txt
+
 
